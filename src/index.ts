@@ -3,3 +3,5 @@ const medium = 2;
 const large = 3;
 
 enum Size { Small, Medium, Large };
+
+console.log(small)
